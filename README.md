@@ -6,7 +6,7 @@
 - ## [Video](https://streamable.com/h8hz4b)
 ![image](https://user-images.githubusercontent.com/49777725/177181984-62040a7c-edf6-4287-adfe-3f5aff8ea25e.png)
 ![image](https://user-images.githubusercontent.com/49777725/177182053-34e60656-88b1-4e43-940c-3ddc246528b3.png)
--Note :- This Script Is Belongs To QBCore (https://github.com/qbcore-framework) -- Credits
+- Note :- This Script Is Belongs To QBCore (https://github.com/qbcore-framework) -- Credits
 
 ## Features(All in one):
 - Changed Ui Theme
