@@ -16,6 +16,6 @@
 - Only For [QBCore]
 
 #Dependencies
-[qb-core](https://github.com/qbcore-framework/qb-core)
+- [qb-core](https://github.com/qbcore-framework/qb-core)
 
 My Other Css Edited Version Of [Fs-multicharacter-css-edit](https://github.com/Pavan576/fs-multicharacter-css-edit)
